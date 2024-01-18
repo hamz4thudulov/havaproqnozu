@@ -1,0 +1,15 @@
+{
+  "name": "havaproqnozu",
+  "version": "1.0.0",
+  "description": "Hava Proqnozu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hava",
+    "proqnozu"
+  ],
+  "author": "Hudulov Hamzat",
+  "license": "ISC"
+}

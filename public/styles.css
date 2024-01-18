@@ -1,0 +1,19 @@
+body {
+    background-color: #f2f2f2;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; /* This line ensures the background stays fixed while scrolling */
+    background-image: url(https://i.hizliresim.com/m0kuyls.jpg);
+}
+
+  
+  h1 {
+    color: #333;
+    font-family: 'Kanit', sans-serif;
+  }
+  h2{
+    font-family: 'Salsa', cursive;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
