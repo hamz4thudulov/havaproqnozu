@@ -55,7 +55,7 @@ app.get('/', async (req, res) => {
       <h1 class="weather-status">Hava Proqnozu: ${translatedWeatherStatus}</h1>
       <h1 class="temperature">Istilik: ${weatherData.temperature}</h1>
       <hr>
-      <h2>Hudul</h2>
+      <h2>REKLAM QISMI</h2>
       <h2>Instagram: @hudul0v</h2>
     </body>
   </html>
